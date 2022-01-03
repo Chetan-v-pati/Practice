@@ -1,0 +1,6 @@
+p{
+    color: brown;
+    background-image: url(pic.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

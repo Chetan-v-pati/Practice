@@ -1,0 +1,16 @@
+#img{
+
+    background-image: url(pic.jpg);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size:cover; */
+    height: 2000px;
+    width: auto;
+    /* padding: 50px; */
+}
+
+
+html,body{
+    margin: 0px;
+}
